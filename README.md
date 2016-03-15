@@ -35,6 +35,7 @@ Anchorage DHSS project. Created an SMS service that you text to 1-907-331-6688 a
 Worked with Anchorage DHHS and the AK DHSS to get WIC into mRelief for Alaska. Text child to 1-907-312-2300 or on the [web](http://www.mrelief.com/alaskawic)
 
 [KTVA news story](http://www.ktva.com/families-can-now-send-a-text-to-check-eligibility-for-wic-program-221/)
+
 [Anchorage DHSS Tweet](https://twitter.com/ANC_DHHS/status/708430804570001408)
 
 ###Real time bus data in Transit App

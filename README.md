@@ -50,6 +50,10 @@ Code for Anchorage launched a real time SMS bus service where residents can find
 ###Restaurant Inspection Data
 [LIVES Data Repo](https://github.com/codeforanchorage/anc-LIVES) - test data that needs to be verified put into [Socrata Dataset](https://brigades.opendatanetwork.com/HEALTH/2015-Score-Inspection/ecxv-94e2)
 
+###Future Coders of Alaska
+Met with a group that started as a collaboration after a Code for Anchorage sponsored showing of CODE: Debugging the Gender Gap and were excited they had there first event last Saturday at the Library working online on FreeCodeCamp. We discussed people learning to code and plugging them into a tailoerd project for NDoCH in June.
+
+
 ##Projects that were worked on but are not completed yet
 
 ###New Park Boundary and Facilities data
@@ -57,7 +61,7 @@ Click That Hood for Anchorage Parks similar to [Chicago](http://click-that-hood.
 
 ###CourtBot for Anchorage
 Based on [Atlanta project](https://www.codeforamerica.org/focus/safety-justice/courtbot/)
-Set up the Atlanta version for Anchorage with Atlanta data. Up and running and tested by a few lawyers and trying to contact the state CourtView contact for getting a larger data range of data for Anchorage and in CSV instead of PDF. Text to 1-907-312-2700 to test.
+Set up the Atlanta version for Anchorage with Atlanta data. Up and running and tested by a few lawyers and trying to contact the state CourtView contact for getting a larger data range of data for Anchorage and in CSV instead of PDF. Text to 1-907-312-2700 to test. IN contact with the CfA SLC team on their Rails version and followed #CourtHack over the weekend.
 
 ###Trail Counter Data
 [Github Repo](https://github.com/codeforanchorage/anc-trail-counter-data)
